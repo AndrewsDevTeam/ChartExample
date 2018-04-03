@@ -1,0 +1,8 @@
+{
+  "name": "devdacticCharts",
+  "app_id": "5824c402",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
