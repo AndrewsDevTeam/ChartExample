@@ -11,12 +11,12 @@ import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyAF_pMzoReWR5UGER63xrGTB35ULpLe-9w",
-  authDomain: "devdacticcharts.firebaseapp.com",
-  databaseURL: "https://devdacticcharts.firebaseio.com",
-  projectId: "devdacticcharts",
-  storageBucket: "devdacticcharts.appspot.com",
-  messagingSenderId: "18710219549"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 
 @NgModule({
